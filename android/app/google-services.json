@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747769564230",
+    "project_id": "signup-login-14cbd",
+    "storage_bucket": "signup-login-14cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747769564230:android:3d4022f5c22326cedc4e47",
+        "android_client_info": {
+          "package_name": "com.example.hunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747769564230-491pal0h40r1ps3ktmj80o521r75aplj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTxKJTsa4O91EbhFSEjawyRE8pTDum2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747769564230-491pal0h40r1ps3ktmj80o521r75aplj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
